@@ -1,3 +1,8 @@
+Sistech Mart – Beauty Mini E-Commerce
+
+A minimalist **beauty product showcase app** built with **Next.js 15 + Tailwind CSS**.  
+Targeted for beauty enthusiasts, especially women, with soft, clean, and aesthetic UI/UX.
+ ---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
